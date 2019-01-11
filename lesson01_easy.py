@@ -21,6 +21,7 @@ print(answer_user, answer_user1)
 age=int(input('Введите свой возраст '))
 if age >= 18:
     print('Доступ разрешен')
+
 else:
     print('Извините, пользование данным ресурсом только с 18 лет')
 
